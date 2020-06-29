@@ -1,0 +1,15 @@
+C:\Users\hikmet\source\repos\Okul_Otomasyonu\Okul_Otomasyonu\bin\Debug\Okul_Otomasyonu.exe.config
+C:\Users\hikmet\source\repos\Okul_Otomasyonu\Okul_Otomasyonu\bin\Debug\Okul_Otomasyonu.exe
+C:\Users\hikmet\source\repos\Okul_Otomasyonu\Okul_Otomasyonu\bin\Debug\Okul_Otomasyonu.pdb
+C:\Users\hikmet\source\repos\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.csprojAssemblyReference.cache
+C:\Users\hikmet\source\repos\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Form1.resources
+C:\Users\hikmet\source\repos\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.Properties.Resources.resources
+C:\Users\hikmet\source\repos\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.csproj.GenerateResource.cache
+C:\Users\hikmet\source\repos\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.exe
+C:\Users\hikmet\source\repos\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.pdb
+C:\Users\hikmet\source\repos\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.FrmOgrenciNotlar.resources
+C:\Users\hikmet\source\repos\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.FrmOgretmen.resources
+C:\Users\hikmet\source\repos\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.FrmKlüpIslemleri.resources
+C:\Users\hikmet\source\repos\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.FrmDersIslemleri.resources
+C:\Users\hikmet\source\repos\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.FrmOgrenciIslemleri.resources
+C:\Users\hikmet\source\repos\Okul_Otomasyonu\Okul_Otomasyonu\obj\Debug\Okul_Otomasyonu.FrmSinavNotlari.resources
